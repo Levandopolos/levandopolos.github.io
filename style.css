@@ -11,8 +11,8 @@
 }
 
 .background-image {
-    max-width: 47%;
-    max-height: 100%;
+    max-width: 48%;
+    min-width: 45%;
     border: grey solid 10px;
     display: inline-block;
     margin: 1px;
